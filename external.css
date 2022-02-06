@@ -1,0 +1,289 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+*
+{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+#meetme
+{
+    font-weight: bolder;
+    font-size: x-large;
+    margin-right: 400px;
+    margin-left: 200px;
+    margin-top: 20px;
+    color:white ;
+}
+.nav-item
+{
+    font-size: smaller;
+    margin-top: 25px;
+}
+.nav-link.home
+{
+    margin-right: 25px;
+    color:white ;
+}
+.nav-link.services
+{
+    margin-right: 25px;
+    color:white ;
+}
+.nav-link.about
+{
+    margin-right: 25px;
+    color:white ;
+}
+.nav-link.pages
+{
+    margin-right: 25px;
+    color:white ;
+}
+.nav-link.blog
+{
+    margin-right: 25px;
+    color:white ;
+}
+.nav-link.contact
+{
+    margin-right: 25px;
+    color:white ;
+}
+
+.grad
+{
+    background: rgb(102,98,255);
+    background: linear-gradient(90deg, rgba(102,98,255,1) 6%, rgba(183,181,255,0.8802871490393032) 100%);
+    height: 100vh;
+    overflow-y: hidden;
+}
+.grad2
+{
+  background: rgb(102,98,255);
+  background: linear-gradient(90deg, rgba(102,98,255,1) 6%, rgba(183,181,255,0.8802871490393032) 100%);
+}
+
+.landingcard
+{
+  border-radius: 15px;
+  box-shadow:  0 0 20px rgba(0, 0, 0, .3);
+  text-align: left;
+  width: 1110px;
+  height: 650px;
+  position: absolute;
+  overflow-y: hidden;
+  margin-top: 100px;
+} 
+
+.container1
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 360px;
+}
+#imageprofile
+{
+  margin-top: 52px;
+}
+
+.skills
+{
+  background-color:#f5f5f5;
+}
+.skillsrowcol
+{
+  margin-left: 220px;
+  margin-right: 100px;
+}
+.subtextskills
+{
+  font-weight: lighter;
+}
+.abc
+{
+  column-gap: 20px;
+  margin-left: 1px;
+  margin-right: 2px;
+}
+.colstack
+{
+  border-style: solid;
+  border-width: 2px;
+  border-color: gainsboro;
+  padding: 12px;
+  border-radius: 5px;
+}
+.colbook
+{
+  border-style: solid;
+  border-width: 2px;
+  border-color: gainsboro;
+  padding: 12px;
+  border-radius: 5px;
+}
+.colvolun
+{
+  border-style: solid;
+  border-width: 2px;
+  border-color: gainsboro;
+  padding: 12px;
+  border-radius: 5px;
+}
+.works
+{
+  background-color:#f5f5f5 ;
+}
+.workscards
+{
+  margin-left: 300px;
+}
+.cardarc
+{
+  border-radius: 10px;
+  transition: all .2s linear;
+  background-color: white;
+  padding: 23px;
+}
+.cardarc:hover
+{
+  box-shadow:  0 0 10px rgba(0, 0, 0, .2);
+}
+.cardint
+{
+  border-radius: 10px;
+  transition: all .2s linear;
+  background-color: white;
+  padding: 18px;
+}
+
+.cardint:hover
+{
+  box-shadow:  0 0 10px rgba(0, 0, 0, .2);
+}
+.cardcd
+{
+  border-radius: 10px;
+  transition: all .2s linear;
+  background-color: white;
+  padding: 13.5px;
+}
+.cardcd:hover
+{
+  box-shadow:  0 0 10px rgba(0, 0, 0, .2);
+}
+.colimgpro
+{
+  text-align: center;
+}
+footer
+{
+  background-color: black;
+  color: white;
+  padding: 100px;
+}
+#textb
+{
+  color: gray;
+  font-size: small;
+}
+#emailinput
+{
+  background-color: black;
+  font-size: smaller;
+}
+.foot
+{
+  justify-content: center;
+  margin-left: 350px;
+}
+#footsubmit
+{
+  background: rgb(102,98,255);
+  background: linear-gradient(90deg, rgba(102,98,255,1) 6%, rgba(183,181,255,0.8802871490393032) 100%);
+}
+
+.projects
+{
+  background-color: white;
+}
+
+.spaceshoot
+{
+  border-radius: 15px;
+}
+.spaceshoot:hover
+{
+  opacity: 0.7;
+}
+
+.threeballs
+{
+  border-radius: 15px;
+}
+.threeballs:hover
+{
+  opacity: 0.7;
+}
+
+.dragon
+{
+  border-radius: 15px;
+}
+.dragon:hover
+{
+  opacity: 0.7;
+}
+
+.space
+{
+  border-radius: 15px;
+}
+.space:hover
+{
+  opacity: 0.7;
+}
+
+.owl
+{
+  border-radius: 15px;
+}
+.owl:hover
+{
+  opacity: 0.7;
+}
+
+.village
+{
+  border-radius: 15px;
+}
+.village:hover
+{
+  opacity: 0.7;
+}
+
+#loadmore
+{
+  background: rgb(102,98,255);
+  background: linear-gradient(90deg, rgba(102,98,255,1) 6%, rgba(183,181,255,0.8802871490393032) 100%);
+  border-radius: 10px;
+  color: white;
+  border-color: white;
+  padding: 15px;
+  font-size: smaller;
+}
+
+.testimo
+{
+  background-color: #f5f5f5;
+}
+.carousel-item
+{
+  background-color: white;
+  width: 30%;
+  margin-left: 550px;
+  border-radius: 10px;
+  padding: 30px;
+}

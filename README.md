@@ -19,3 +19,15 @@ https://www.walliapp.com/      -     The images site I used
 https://www.flaticon.com/      -     The logos site I used
 
 https://boxicons.com/          -     The logos site I used
+
+# Screenshots
+1
+![](Screenshot%201.png)
+2
+![](Screenshot%202.png)
+3
+![](Screenshot%203.png)
+4
+![](Screenshot%204.png)
+5
+![](Screenshot%205.png)
